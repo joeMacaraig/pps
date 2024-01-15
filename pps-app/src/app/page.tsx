@@ -14,6 +14,7 @@ export default function Home() {
       <Work />
       <Creator />
       <Contact />
+
     </>
   );
 }

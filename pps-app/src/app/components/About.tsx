@@ -4,10 +4,10 @@ export default function About() {
   return (
     <section id="about">
       <div className="w-full h-full grid grid-cols-2 place-items-stretch">
-        <div className="h-[90vh] w-3/4 flex items-center justify-center bg-black my-5">
+        <div className="h-[95vh] w-3/4 flex items-center justify-center bg-black">
           Image
         </div>
-        <div className="p-8 flex items-center justify-center my-5">
+        <div className="p-8 flex items-center justify-center">
           <div>
             <h1 className="text-4xl font-bold">Header</h1>
             <p>
@@ -35,7 +35,7 @@ export default function About() {
             </p>
           </div>
         </div>
-        <div className="h-[90vh] w-3/4 flex bg-black place-self-end ">
+        <div className="h-[95vh] w-3/4 flex bg-black place-self-end ">
           Image
         </div>
       </div>
