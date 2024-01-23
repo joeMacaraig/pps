@@ -14,6 +14,12 @@ const nextConfig = {
         port: "",
         pathname: "/v/**",
       },
+      {
+        protocol: "https",
+        hostname: "palasade.us",
+        port: "",
+        pathname: "/cdn/**",
+      },
     ],
   },
 };
